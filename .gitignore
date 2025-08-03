@@ -1,0 +1,16 @@
+# Laravel
+/portfolio-backend/vendor/
+/portfolio-backend/storage/
+/portfolio-backend/.env
+/portfolio-backend/node_modules/
+/portfolio-backend/public/storage
+
+# React
+/portfolio/node_modules/
+/portfolio/.env
+/portfolio/build/
+
+# System Files
+.DS_Store
+*.log
+.env
